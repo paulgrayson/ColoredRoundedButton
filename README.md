@@ -4,5 +4,5 @@ ColoredRoundedButton give iOS developers colored and rounded buttons without usi
 
 Here's a screenshot showing two coloured rounded buttons, the top button is disabled
 
-![screenshot showing colored rounded buttons](ColoredRoundedButton/raw/master/colored-rounded-button-screenshot.png)
+![screenshot showing colored rounded buttons](colored-rounded-button-screenshot.png)
 
